@@ -29,6 +29,7 @@ const CustomeForm = () => {
          <iframe width="580" height="315" src="https://www.youtube.com/embed/nwJK-jo91vA" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
         </Model>
         <Model isVisible ={shomodel2} onClose ={()=>setShowmodel2(false)}> <LoginForm/></Model>
+         
     </div>
     </Fragment>
   )
