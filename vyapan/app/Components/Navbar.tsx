@@ -26,6 +26,7 @@ const Navbar= () => {
 
         </div>
         <TimeComponent/>
+        <div>aajakhajkdad</div>
       </div>
     </nav>
   );
