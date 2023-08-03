@@ -7,7 +7,6 @@ const Logo =dynamic(()=>import('./Logo'))
 const TimeComponent=dynamic(()=>import('./TimeComponent'))
 
 
-
 const Navbar= () => {
   return (
     <nav className=" bg-gradient-to-r from-indigo-500">
